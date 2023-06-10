@@ -13,3 +13,6 @@ We will use AWS console for this project
 ![1](https://github.com/adrydry/Deploy-a-Java-Application/assets/102819001/e948f5d7-e24b-4e25-b789-b7fe0f40b969)
 
 **Step 4 - Install java and Maven on this server
+
+![1](https://github.com/adrydry/Deploy-a-Java-Application/assets/102819001/6c922cf4-b301-4de6-86c8-cb5ae6d2bb22)
+
