@@ -16,3 +16,6 @@ We will use AWS console for this project
 
 ![1](https://github.com/adrydry/Deploy-a-Java-Application/assets/102819001/6c922cf4-b301-4de6-86c8-cb5ae6d2bb22)
 
+**Step 5 - clone the repository where the code is located
+
+![1](https://github.com/adrydry/Deploy-a-Java-Application/assets/102819001/daadbb8b-747b-40f6-8d05-ffb5716ea78d)
